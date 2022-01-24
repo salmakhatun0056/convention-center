@@ -6,6 +6,7 @@ body{
 .button-text-color{
     color: #6f42c1;
 }
+
 @media only screen and (max-width:576px) {
     .mobile-view{
         top: 0 !important;
